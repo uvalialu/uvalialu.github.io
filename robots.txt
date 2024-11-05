@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uvalialu.github.io/CyL/sitemap_index.txt
+Sitemap: https://uvalialu.github.io/MXo/sitemap_index.txt
+Sitemap: https://uvalialu.github.io/NOd/sitemap_index.txt
+Sitemap: https://uvalialu.github.io/POZ/sitemap_index.txt
